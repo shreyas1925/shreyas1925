@@ -1,4 +1,4 @@
-### Hi there, I'm Shreyas Shettigar 👋
+## Hi there, I'm Shreyas Shettigar 👋
 ### I'm a Developer, Programmer !!
 
 - 🔭JavaScript is love ❤!
@@ -6,15 +6,6 @@
 - 👯 I’m looking to collaborate and work with Amazing Stuffs!
 - 🥅 2021 Goals: Contribute more to Open Source projects!
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
-
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
