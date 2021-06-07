@@ -1,6 +1,6 @@
-### Hi there, I'm Shreyas  👋
+## Hi there, I'm Shreyas  👋
 
-## I'm a Student, Full Stack Developer !!
+### I'm a Student, Full Stack Developer !!
 
 - 🔭 JavaScript is love ❤
 - 🌱 I’m currently trying out MERN STACK😃
@@ -20,7 +20,7 @@
 [twitter]: https://twitter.com/shreyas__19
 [instagram]: https://www.instagram.com/shreyas__19/
 [linkedin]:https://www.linkedin.com/in/shreyas-shettigar-0a695a1a0/
- <br/>
+ 
  
 ### Languages and Tools:
 
@@ -41,3 +41,6 @@
 
 [webdevplaylist]: https://www.instagram.com/shreyas__19/
 
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreyas1925&&show_icons=true&title_color=ffffff&icon_color=6ede8a&text_color=ffffff&bg_color=151515"/>
