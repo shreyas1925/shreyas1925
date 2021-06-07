@@ -40,7 +40,4 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/shreyas__19
-[instagram]: https://www.instagram.com/shreyas__19/
-[linkedin]: https://www.linkedin.com/in/shreyas-shettigar-0a695a1a0/
 
