@@ -44,4 +44,4 @@
 
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=shreyas1925&&show_icons=true&title_color=6ede8a&icon_color=6ede8a&text_color=6ede8a&bg_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreyas1925&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=6ede8a&bg_color=6ede8a"/>
