@@ -1,4 +1,4 @@
-## Hi there, I'm Shreyas <h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+## Hi there, I'm Shreyas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 ### I'm a Student, Full Stack Developer !!
 
