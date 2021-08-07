@@ -3,7 +3,7 @@
 ### I'm a Student, Full Stack Developer !!
 
 - JavaScript is love ❤
-- I’m currently trying out MERN STACK😃
+- Currently working on Ecommerce web app and DSA😃
 - I’m looking to collaborate and work with amazing stuffs !!
 - 2021 Goals: Contribute more to Open Source projects
 
