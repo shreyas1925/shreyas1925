@@ -3,7 +3,7 @@
 ### I'm a Student, Full Stack Developer !!
 
 - JavaScript is love ❤
-- Currently working on Ecommerce web app and DSA and learning Devops😃
+- Currently working on Ecommerce web app and DSA, learning Devops😃
 - I’m looking to collaborate and work with amazing stuffs !!
 - 2021 Goals: Contribute more to Open Source projects
 
