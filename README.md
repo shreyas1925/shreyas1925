@@ -17,10 +17,19 @@
 
 <br />
 
-[twitter]: https://twitter.com/shreyas__19
+<!-- [twitter]: https://twitter.com/shreyas__19
 [instagram]: https://www.instagram.com/shreyas__19/
-[linkedin]:https://www.linkedin.com/in/shreyas-shettigar-0a695a1a0/
- 
+[linkedin]:https://www.linkedin.com/in/shreyas-shettigar-0a695a1a0/ -->
+
+<a href="https://twitter.com/shreyas__19/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+</a>&ensp;
+<a href="https://www.linkedin.com/in/shreyas-shettigar-0a695a1a0/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>&ensp;
+<a href="https://www.instagram.com/shreyas__19/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>&ensp;
  
 ### Languages and Tools:
 
