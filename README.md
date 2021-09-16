@@ -70,22 +70,21 @@
     
    </tr> 
    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas1925&theme=highcontrast&layout=compact"  display=block width=100% height=auto  alt="2" ></td>
+ 
      <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=shreyas1925&custom_title=My%20Weekly%20Stats&layout=compact&theme=highcontrast" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
   <tr>
     <td><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shreyas1925&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Harsh Avinash" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shreyas1925&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Shreyas" />
       </a></p></td><td>
-  <p align = "left" > Number of visits <br> 
+ 
   
 </p>
 </td></tr>
 
 </table>
 
-<br/>
-<img align="text" alt="shreyas github stats" src="https://github-readme-stats.vercel.app/api?username=shreyas1925&show_icons=true&hide_border=false"/>
+
 
 
