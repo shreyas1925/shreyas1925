@@ -10,17 +10,11 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/shreyas__19/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-</a>&ensp;
-<a href="https://www.linkedin.com/in/shreyas-shettigar-0a695a1a0/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>&ensp;
-<a href="https://www.instagram.com/shreyas__19/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-</a>&ensp;
 
-<br />
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/shreyas__19/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shreyas-shettigar-0a695a1a0/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shreyas__19/")
+[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:shreyasshettigar34@gmail.com@gmail.com)
 
 
 ### Languages and Tools:
@@ -44,11 +38,51 @@
 [<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][webdevplaylist]
 
 
+###### Learning
+![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-00d1b2?style=flat-square&logo=kubernetes)
 
-[webdevplaylist]: https://www.github.com/shreyas1925
 
-<br/>
-<br/>
+###### Front-End Stack
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=Next.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-563D7C?style=flat-square&logo=tailwind)
+
+
+###### Back-End Stack
+
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
+
+
+###### Languages
+
+![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+
+### List of things I have worked with
+
+###### Version Control
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+###### Devop skills
+
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
+![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-79589F?style=flat-square&logo=heroku)
+
+
 <br/>
 <img align="text" alt="shreyas github stats" src="https://github-readme-stats.vercel.app/api?username=shreyas1925&show_icons=true&hide_border=false"/>
 
