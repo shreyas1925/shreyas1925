@@ -66,23 +66,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=shreyas1925&theme=highcontrast&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas1925&theme=highcontrast"  display=block width=100% height=auto alt="3" align="right"></td>
-    
-   </tr> 
-   <tr>
- 
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=shreyas1925&custom_title=My%20Weekly%20Stats&layout=compact&theme=highcontrast" align="right" display=block width=100% height=auto  alt="4"  >
-  </td>
-  </tr>
-  <tr>
-    <td><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shreyas1925&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Shreyas" />
-      </a></p></td><td>
- 
-  
-</p>
-</td></tr>
-
+</tr>
 </table>
 
 
