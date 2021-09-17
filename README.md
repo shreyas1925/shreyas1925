@@ -19,6 +19,7 @@
 
 ###### Learning
 ![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-00d1b2?style=flat-square&logo=kubernetes)
 
 
@@ -57,7 +58,6 @@
 
 ###### Devop skills
 
-![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-79589F?style=flat-square&logo=heroku)
 
