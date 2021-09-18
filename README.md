@@ -3,7 +3,7 @@
 ### I'm a Student, Full Stack Developer !!
 
 - JavaScript is ❤
-- Currently learning DevOps and problem solving😃
+- Currently learning DevOps and exploring ways of problem solving😃
 - I’m looking to collaborate and work with amazing stuffs !!
 - 2021 Goals: Contribute more to Open Source projects
 
