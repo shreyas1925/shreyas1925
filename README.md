@@ -26,6 +26,7 @@
 
 ###### Front-End Stack
 
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -50,6 +51,7 @@
 
 
 ### List of things I have worked with
+
 
 ###### Version Control
 
