@@ -4,9 +4,9 @@
 
 
 ✅ JavaScript is ❤ <br/>
-✅ Currently learning DevOps and exploring ways of problem solving😃
-✅ I’m looking to collaborate and work with amazing stuffs !!
-✅ 2021 Goals: Contribute more to Open Source projects
+✅ Currently learning DevOps and exploring ways of problem solving😃 <br/>
+✅ I’m looking to collaborate and work with amazing stuffs !! <br/>
+✅ 2021 Goals: Contribute more to Open Source projects <br/>
 
 
 ### Connect with me:
