@@ -2,7 +2,6 @@
 
 ### I'm a Student, Full Stack Developer !!
 
-
 ✅ JavaScript is ❤ <br/>
 ✅ Currently learning DevOps and exploring ways of problem solving😃 <br/>
 ✅ I’m looking to collaborate and work with amazing stuffs !! <br/>
