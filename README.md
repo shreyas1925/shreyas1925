@@ -7,10 +7,7 @@
 ✅ I’m looking to collaborate and work with amazing stuffs !! <br/>
 ✅ 2021 Goals: Contribute more to Open Source projects <br/>
 
-
 ### Connect with me:
-
-
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/shreyas__19/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shreyas-shettigar-0a695a1a0/)
