@@ -14,7 +14,6 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shreyas__19/")
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:shreyasshettigar34@gmail.com@gmail.com)
 
-
 ###### Learning
 ![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
@@ -49,14 +48,10 @@
 
 ### List of things I have worked with
 
-
 ###### Version Control
-
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
 
 ###### Devop skills
 
