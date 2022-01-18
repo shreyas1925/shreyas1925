@@ -1,6 +1,6 @@
 ## Hi there, I'm Shreyas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-### I'm a Student, Full Stack Developer !!
+### I'm a Student, Full Stack Developer from India 👨‍💻!!
 
 ✅ JavaScript is ❤ <br/>
 ✅ Currently learning DevOps and exploring ways of problem solving😃 <br/>
