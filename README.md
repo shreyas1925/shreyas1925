@@ -9,7 +9,6 @@
 
 ### Connect with me:
 
-
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/shreyas__19/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shreyas-shettigar-0a695a1a0/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/shreyas__19/")
@@ -53,7 +52,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ###### Devop skills
-
 
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-79589F?style=flat-square&logo=heroku)
