@@ -36,13 +36,11 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
 
-
 ###### Languages
 
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-
 
 ### List of things I have worked with
 
