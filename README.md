@@ -19,7 +19,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-00d1b2?style=flat-square&logo=kubernetes)
 
-
 ###### Front-End Stack
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
