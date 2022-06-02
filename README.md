@@ -1,5 +1,7 @@
-## Hi there, I'm Shreyas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+## Hi there, I'm Shreyas 
 
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+ -->
 ### I'm a Student, Full Stack Developer from India 👨‍💻!!
 
 ✅ JavaScript is ❤ <br/>
