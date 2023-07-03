@@ -19,6 +19,9 @@
 
 ![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-00d1b2?style=flat-square&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=aws)
+
+
 
 ###### Front-End Stack
 
